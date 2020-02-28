@@ -20,7 +20,7 @@ Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with
 ```sh
 $ export DATABASE_URL="postgresql://username:password@localhost/mydatabase"
 
-or
+or            
 
 $ export DATABASE_URL="mysql+mysqlconnector://username:password@localhost/mydatabase"
 
